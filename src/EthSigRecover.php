@@ -23,6 +23,10 @@ class EthSigRecover {
         $s = $sHex; 	//hex string without 0x
         $v = $vValue; 	//27 or 28
 
+        if ($v != 27 && $v != 28) {
+            $v += 27;
+        }
+
         //with hex2bin it gives the same byte array as the javascript
         $rByteArray = unpack('C*', hex2bin($r));
         $sByteArray = unpack('C*', hex2bin($s));
