@@ -1,5 +1,5 @@
 {
-    "name": "pelieth/laravel-ecrecover",
+    "name": "sijad/laravel-ecrecover",
     "description": "Ecrecover functions of Ethereum written for Laravel.",
     "type": "library",
     "license": "MIT",
