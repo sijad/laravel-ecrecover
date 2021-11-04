@@ -1,7 +1,7 @@
 <?php
 namespace Tests;
 use PHPUnit\Framework\TestCase;
-use Pelieth\LaravelEcrecover\EthSigRecover;
+use Sijad\LaravelEcrecover\EthSigRecover;
 
 class EcRecoverTest extends TestCase
 {

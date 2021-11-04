@@ -1,6 +1,6 @@
 <?php
 
-namespace Pelieth\LaravelEcrecover;
+namespace Sijad\LaravelEcrecover;
 /* 
  * The SECp256k1 curve
  * Fundamental ECC Function for Bitcoin/Zetacoin compatable Crypto Currency

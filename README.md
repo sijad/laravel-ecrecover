@@ -6,7 +6,7 @@
 
 ## Usage
 
-use Pelieth\LaravelEcrecover\EthSigRecover;
+use Sijad\LaravelEcrecover\EthSigRecover;
 
 \$eth_sig_util = new EthSigRecover();
 

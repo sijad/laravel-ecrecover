@@ -1,6 +1,6 @@
 <?php
 
-namespace Pelieth\LaravelEcrecover;
+namespace Sijad\LaravelEcrecover;
 /*
  * Object orieted interface to Helpful Point Math Operations
  * Using the GMP library

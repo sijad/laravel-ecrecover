@@ -1,6 +1,6 @@
 <?php
 
-namespace Pelieth\LaravelEcrecover;
+namespace Sijad\LaravelEcrecover;
 
 use kornrunner\Keccak;
 

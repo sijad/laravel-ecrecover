@@ -1,6 +1,6 @@
 <?php
 
-namespace Pelieth\LaravelEcrecover;
+namespace Sijad\LaravelEcrecover;
 /* 
  * Crypto Currency Message Signing and Verification
  * For Bitcoin/Zetacoin compatable Crypto Currency utilizing the secp256k1 curve
