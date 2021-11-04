@@ -3,16 +3,9 @@
     "description": "Ecrecover functions of Ethereum written for Laravel.",
     "type": "library",
     "license": "MIT",
-    "require-dev": {
-        "phpunit/phpunit": "^7.0"
-    },
     "autoload": {
         "psr-4": {
             "Pelieth\\LaravelEcrecover\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
         }
     },
     "require": {
